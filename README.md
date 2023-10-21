@@ -2,4 +2,4 @@
 
 thisKonrad is Konrad from Berlin
 
-i learn coding and i like 👀 nice things.
+i exercise coding and like to build things.⚙
