@@ -1,4 +1,4 @@
-##Hi There 😄!
+## Hi There 😄!
 
 thisKonrad is Konrad from Berlin
 
@@ -12,8 +12,7 @@ hopefully survive it...
 you can also find me @ codepen under
 https://codepen.io/Konrad-Wittich
 
-
-`r icon::fa("fa-js")`  `r icon::fa("fa-css")`  `r icon::fa("html5")` 
+@icn-js @icn-css @icn-html
 
 
 
