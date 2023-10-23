@@ -10,7 +10,8 @@ Web Devlopement Program
 @ Spiced Academy in Berlin.
 
 Encouraged to learn new stuff 
-and take a deep dive into the 
+and hopefully take a deep dive 
+into the main
 topics of web programming.
 
 
