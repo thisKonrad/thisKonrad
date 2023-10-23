@@ -12,7 +12,8 @@ hopefully survive it...
 you can also find me @ codepen under
 https://codepen.io/Konrad-Wittich
 
-@icn-js @icn-css @icn-html
+
+![jS-icon](./icons8-javascript.svg)  	![jS-icon](./icons8-html.svg) 	![jS-icon](./icons8-css.svg)
 
 
 
