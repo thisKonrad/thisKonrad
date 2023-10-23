@@ -13,7 +13,7 @@ you can also find me @ codepen under
 https://codepen.io/Konrad-Wittich
 
 
-![jS-icon](./icons8-javascript.svg)  	![jS-icon](./icons8-html.svg) 	![jS-icon](./icons8-css.svg)
+![jS-icon](./icons8-002javascript.svg)  	![jS-icon](./icons8-002html.svg) 	![jS-icon](./icons8-002css.svg)
 
 
 
