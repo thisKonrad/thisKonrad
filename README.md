@@ -17,6 +17,7 @@ and hopefully take away a
 fundamental overview of the
 main topics of web programming.
 
+### Languages i used till now:
 
 ![jS-icon](./icons8-002javascript.svg)  	![jS-icon](./icons8-002html.svg) 	![jS-icon](./icons8-002css.svg)
 
@@ -24,7 +25,7 @@ main topics of web programming.
 | ----------- | ----------- |
 |  40% ~| HTML 5|
 |  40% ~| CSS 3|
-|  40% ~| Java Script |
+|  35% ~| Java Script |
 
 
 
