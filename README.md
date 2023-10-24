@@ -1,4 +1,4 @@
-## Hi There 😄!
+## ==Hi There== 😄==!==
 
 thisKonrad is Konrad from Berlin
 
@@ -17,11 +17,11 @@ topics of web programming.
 
 ![jS-icon](./icons8-002javascript.svg)  	![jS-icon](./icons8-002html.svg) 	![jS-icon](./icons8-002css.svg)
 
-| proceed | language|
+| personal proceed | language|
 | ----------- | ----------- |
-|  60% ~| HTML 5|
-|  60% ~| CSS 3|
-|  45% ~| Java Script |
+|  40% ~| HTML 5|
+|  40% ~| CSS 3|
+|  40% ~| Java Script |
 
 
 You can also find me @ codepen:
