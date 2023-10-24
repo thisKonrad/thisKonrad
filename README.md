@@ -4,6 +4,9 @@ thisKonrad is Konrad from Berlin.
 
 I exercise coding and like to build *things*.
 
+You can also find me @ codepen:
+https://codepen.io/Konrad-Wittich
+
 
 Actually i am entering the 
 Web Devlopement Program 
@@ -24,5 +27,4 @@ main topics of web programming.
 |  40% ~| Java Script |
 
 
-You can also find me @ codepen:
-https://codepen.io/Konrad-Wittich
+
