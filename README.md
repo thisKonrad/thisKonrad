@@ -4,7 +4,7 @@ thisKonrad is Konrad from Berlin.
 
 I exercise coding and like to build *things*.
 
-You can also find me @ codepen:
+You can also find me @ **codepen:**
 https://codepen.io/Konrad-Wittich
 
 
