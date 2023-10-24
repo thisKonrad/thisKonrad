@@ -1,18 +1,18 @@
-## ==Hi There== 😄==!==
+## Hi There Everybody 😄!
 
-thisKonrad is Konrad from Berlin
+thisKonrad is Konrad from Berlin.
 
 I exercise coding and like to build *things*.
 
 
 Actually i am entering the 
 Web Devlopement Program 
-@ Spiced Academy in Berlin.
+@ Spiced Academy 🌶️ in Berlin.
 
 Encouraged to learn new stuff 
-and hopefully take a deep dive 
-into the main
-topics of web programming.
+and hopefully take away a
+fundamental overview of the
+main topics of web programming.
 
 
 ![jS-icon](./icons8-002javascript.svg)  	![jS-icon](./icons8-002html.svg) 	![jS-icon](./icons8-002css.svg)
