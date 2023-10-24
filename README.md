@@ -17,6 +17,13 @@ topics of web programming.
 
 ![jS-icon](./icons8-002javascript.svg)  	![jS-icon](./icons8-002html.svg) 	![jS-icon](./icons8-002css.svg)
 
+| Syntax | Description |
+| ----------- | ----------- |
+| languages | i exercise |
+|  | HTML 5|
+|  | CSS 3|
+|  | Java Script |
+
 
 You can also find me @ codepen:
 https://codepen.io/Konrad-Wittich
