@@ -21,11 +21,4 @@ main topics of web programming.
 
 ![jS-icon](./icons8-002javascript.svg)  	![jS-icon](./icons8-002html.svg) 	![jS-icon](./icons8-002css.svg)
 
-| personal proceed | language|
-| ----------- | ----------- |
-|  40% ~| HTML 5|
-|  40% ~| CSS 3|
-|  35% ~| Java Script |
-
-
 
