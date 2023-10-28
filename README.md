@@ -12,7 +12,7 @@ Encouraged to learn new stuff
 and hopefully take away a
 fundamental overview of the
 main topics of web programming.
-icons8-codewars.svgicons8-codewars.svg
+
 
 
 [<img src="./icons8-codepen.svg">](https://codepen.io/Konrad-Wittich)  [<img src="icons8-codewars.svg">](https://www.codewars.com/users/thisKonrad)
