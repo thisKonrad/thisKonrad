@@ -13,6 +13,6 @@ and hopefully take away a
 fundamental overview of the
 main topics of web programming.
 
-[<img src="./icons8-codepen.svg">](https://codepen.io/Konrad-Wittich)   ![jS-icon](./icons8-002javascript.svg)  	![jS-icon](./icons8-002html.svg) 	![jS-icon](./icons8-002css.svg)
+[<img src="./icons8-codepen.svg">](https://codepen.io/Konrad-Wittich)  ![icon-vs-code](./icons8-git.svg)  ![jS-icon](./icons8-002javascript.svg)  	![jS-icon](./icons8-002html.svg) 	![jS-icon](./icons8-002css.svg)
 
 
