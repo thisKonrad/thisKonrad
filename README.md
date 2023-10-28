@@ -12,7 +12,10 @@ Encouraged to learn new stuff
 and hopefully take away a
 fundamental overview of the
 main topics of web programming.
+icons8-codewars.svgicons8-codewars.svg
 
-[<img src="./icons8-codepen.svg">](https://codepen.io/Konrad-Wittich)  ![icon-vs-code](./icons8-vs-code.svg)  ![icon-git](./icons8-git.svg)  ![jS-icon](./icons8-002javascript.svg)  	![jS-icon](./icons8-002html.svg) 	![jS-icon](./icons8-002css.svg)
+
+[<img src="./icons8-codepen.svg">](https://codepen.io/Konrad-Wittich)  [<img src="icons8-codewars.svgicons8-codewars.svg">](https://www.codewars.com/users/thisKonrad) ![icon-vs-code](./icons8-vs-code.svg)  
+![icon-git](./icons8-git.svg)  ![jS-icon](./icons8-002javascript.svg)  	![jS-icon](./icons8-002html.svg) 	![jS-icon](./icons8-002css.svg)
 
 
