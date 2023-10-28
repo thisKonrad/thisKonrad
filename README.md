@@ -5,8 +5,8 @@ thisKonrad is Konrad from Berlin.
 I exercise coding and like to build *things*.
 
 You can also find me @ **codepen:**
-https://codepen.io/Konrad-Wittich
 
+![coden-icon](./)(https://codepen.io/Konrad-Wittich)
 
 Actually i am entering the 
 Web Devlopement Program 
