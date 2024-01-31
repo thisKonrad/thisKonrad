@@ -6,7 +6,7 @@ I practice coding and like to build *things*.
 
 
 visit me @ codepen:
-.[<img src="./icons8-codepen.svg" width="42"/>](https://codepen.io/Konrad-Wittich)
+[<img src="./icons8-codepen.svg" width="42"/>](https://codepen.io/Konrad-Wittich)
 or codewars:
 [<img src="icons8-codewars.svg" width="42">](https://www.codewars.com/users/thisKonrad)
 
