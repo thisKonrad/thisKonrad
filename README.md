@@ -9,6 +9,4 @@ I practice coding and like to build *things*.
 <img src="./icons8-react.svg" width="62"/>  <img src="./next-js.svg" width="62"/> <img src="./icons8-schnell.svg" width="62"/> <img src="./expressJS.svg" width="62"/> <img src="./icons8-npm.svg" width="62"/> 
 
 
-[<img src="./icons8-codepen.svg" width="42"/>](https://codepen.io/Konrad-Wittich)
-
-[<img src="icons8-codewars.svg" width="42">](https://www.codewars.com/users/thisKonrad)
+[<img src="./icons8-codepen.svg" width="42"/>](https://codepen.io/Konrad-Wittich) [<img src="icons8-codewars.svg" width="42">](https://www.codewars.com/users/thisKonrad)
