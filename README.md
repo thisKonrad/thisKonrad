@@ -2,7 +2,7 @@
 
 thisKonrad is Konrad from Berlin.
 
-I practice coding and like to build *things*.
+I practice coding and I like to build *things*.
 
 
 <img src="./icons8-vs-code.svg" width="62"/> <img src="./icons8-git.svg" width="62"/> <img src="./icons8-002javascript.svg" width="62"/> <img src="./icons8-002html.svg" width="62"/> <img src="./icons8-002css.svg" width="62"/>
