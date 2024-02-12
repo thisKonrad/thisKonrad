@@ -1,4 +1,4 @@
-## Hi There Everybody 😄!
+## Hi There 😄!
 
 thisKonrad is Konrad from Berlin.
 
